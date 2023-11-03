@@ -1,0 +1,17 @@
+{
+  "name": "ts-vitest-kata-bootstrap",
+  "version": "1.0.0",
+  "description": "A bootstrap for katas using TypeScript and Vitest",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "vite",
+    "kata",
+    "bootstrap"
+  ],
+  "author": "Benjamin Rae <benjaminrae93@gmail.com>",
+  "license": "ISC"
+}
