@@ -15,6 +15,9 @@
     "moduleResolution": "node",
     "target": "ESNext",
     "importHelpers": true,
-    "outDir": "./dist"
+    "outDir": "./dist",
+    "types": [
+      "vitest/globals"
+    ]
   }
 }
