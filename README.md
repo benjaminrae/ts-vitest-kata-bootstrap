@@ -1,1 +1,1 @@
-# TypeScript Vitest Kata Bootstap
+# TypeScript Vitest Kata Bootstrap
